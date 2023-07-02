@@ -1,0 +1,14 @@
+vetor = []
+
+# ler os numeros e armazena no vetor 
+
+for i in range(5):
+
+    num = int(input("digite um numero: "))
+    vetor.append(num)
+
+# exibe os numeros no vetor 
+
+print("numeros digitados: ")
+for num in vetor:
+   print(num)
