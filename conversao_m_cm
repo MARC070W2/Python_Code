@@ -1,0 +1,3 @@
+metros = float(int("informe um valor em metros:"));
+centimetros = metros*100;
+print("o numero convertido é: ",centimetros)
