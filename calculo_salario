@@ -1,0 +1,4 @@
+num1 = float(input("informe quanto voce ganha por hora: "));
+num2 = float(input("informe o numero de horas trabalhadas no mes: "));
+salario = num1*num2
+print("seu salario é: ",salario)
